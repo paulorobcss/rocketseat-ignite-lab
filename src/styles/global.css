@@ -1,0 +1,3 @@
+@tailwind base; /* Importing tailwind 'libraries' */
+@tailwind utilities;
+@tailwind components;
